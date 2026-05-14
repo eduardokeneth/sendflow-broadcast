@@ -1,4 +1,3 @@
-# Logs
 logs
 *.log
 npm-debug.log*
@@ -11,8 +10,8 @@ node_modules
 dist
 dist-ssr
 *.local
+.firebase
 
-# Editor directories and files
 .vscode/*
 !.vscode/extensions.json
 .idea
@@ -23,8 +22,3 @@ dist-ssr
 *.sln
 *.sw?
 
-# Project docs and local agent files
-CLAUDE.md
-PRD.md
-spec.md
-firebase-debug.log
